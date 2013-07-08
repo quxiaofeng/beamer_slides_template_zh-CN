@@ -1,0 +1,11 @@
+del *.aux
+del *.log
+del *.nav
+del *.out
+del *.snm
+del *.synctex.gz
+del *.synctex.gz(busy)
+del *.toc
+del *.swp
+del ~*
+del *~
